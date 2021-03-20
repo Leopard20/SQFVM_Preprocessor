@@ -1,0 +1,6 @@
+[submodule "sqf-value"]
+	path = sqf-value
+	url = https://github.com/arma3/sqf-value.git
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/SQFvm/runtime.git
